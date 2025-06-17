@@ -41,7 +41,3 @@
 git clone https://github.com/yourusername/onionvuln.git
 cd onionvuln
 pip install -r requirements.txt
-
-
-
-
