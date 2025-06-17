@@ -38,6 +38,6 @@
 ### 💻 Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/onionvuln.git
+git clone https://github.com/onionvuln/SafeSocial.git
 cd onionvuln
 pip install -r requirements.txt
